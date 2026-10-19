@@ -1,0 +1,33 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ---- 打包 / 构建产物 ----
+build/
+dist/
+*.spec
+*.rar
+*.7z
+*.zip
+
+# ---- 运行时产物 ----
+exports/
+custom_algorithms/
+svu_polyglot_cache/
+*.mp4
+*.wav
+*.log
+
+# ---- 环境 ----
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ---- 本地工具数据 ----
+.workbuddy/
