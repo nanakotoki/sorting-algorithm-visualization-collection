@@ -12,7 +12,7 @@
 
 不想装 Python 环境？直接下打包好的 Windows 免安装版：
 
-**➡️ [前往 Releases 下载 `SortingVisualizerUltimate_v1.0.0.rar`](../../releases/latest)**
+**➡️ [前往 Releases 下载 `SortingVisualizerUltimate_v1.0.0.rar`](https://github.com/nanakotoki/sorting-algorithm-visualization-collection/releases/latest)**
 
 解压后双击 `SortingVisualizerUltimate.exe` 即可运行（约 317 MB，已内置 FFmpeg，无控制台窗口，无需安装任何依赖）。
 
